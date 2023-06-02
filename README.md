@@ -105,7 +105,7 @@ r.ProgSave(r"""C:/Users/LokiUday/OneDrive/Documents/RoboDK""",r"""PICKANDPLACE""
  
  
  
- ##SIMULATION:
+ SIMULATION:
  ![1](https://github.com/Georgepaultony/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/120088748/44aecd65-0f72-4e6d-838e-a4ec42a8aa52)
 
  ![2](https://github.com/Georgepaultony/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/120088748/79d0d81a-8c1e-436b-92f0-6e0510b34fbc)
